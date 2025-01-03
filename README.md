@@ -11,7 +11,7 @@
 - 🗺️: I'm from Brazil, living in `Mexico City`.
 - :student: I’m currently learning `Cybersecurity` and `AWS`.
 - :nerd_face: Always `learning new things`.
-- :thinking: This is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: This is [MY RESUME](http://lnkiy.in/UtHJ5).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
