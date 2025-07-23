@@ -6,8 +6,6 @@
 
 <br><br>
 
-- :bank: I'm working at [CLARA](https://www.clara.com/es-mx/). 
-- 🗺️: living in `CDMX`.
 - :nerd_face: Always `learning new things`.
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1WQtwKn4thd1BEy7IecoegHLtmlUeC45X/view?usp=drive_link).
 <br>
